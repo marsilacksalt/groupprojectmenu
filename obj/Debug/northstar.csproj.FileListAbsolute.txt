@@ -1,0 +1,14 @@
+C:\Users\rober\OneDrive\Desktop\northstar\IIDKQuest\bin\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\northstar\IIDKQuest\bin\Debug\IIDKQuest.pdb
+C:\Users\rober\OneDrive\Desktop\northstar\IIDKQuest\obj\Debug\northstar.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\northstar\IIDKQuest\obj\Debug\northstar.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\northstar\IIDKQuest\obj\Debug\northstar.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\northstar\IIDKQuest\obj\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\northstar\IIDKQuest\obj\Debug\IIDKQuest.pdb
+C:\Users\d5254\OneDrive\Desktop\projs\northstar\northstar\IIDKQuest\bin\Debug\IIDKQuest.dll
+C:\Users\d5254\OneDrive\Desktop\projs\northstar\northstar\IIDKQuest\bin\Debug\IIDKQuest.pdb
+C:\Users\d5254\OneDrive\Desktop\projs\northstar\northstar\IIDKQuest\obj\Debug\northstar.csproj.AssemblyReference.cache
+C:\Users\d5254\OneDrive\Desktop\projs\northstar\northstar\IIDKQuest\obj\Debug\northstar.csproj.CoreCompileInputs.cache
+C:\Users\d5254\OneDrive\Desktop\projs\northstar\northstar\IIDKQuest\obj\Debug\northstar.csproj.Up2Date
+C:\Users\d5254\OneDrive\Desktop\projs\northstar\northstar\IIDKQuest\obj\Debug\IIDKQuest.dll
+C:\Users\d5254\OneDrive\Desktop\projs\northstar\northstar\IIDKQuest\obj\Debug\IIDKQuest.pdb

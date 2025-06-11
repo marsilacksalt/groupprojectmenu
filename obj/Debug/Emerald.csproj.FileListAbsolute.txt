@@ -1,0 +1,14 @@
+C:\Users\rober\OneDrive\Desktop\Tranquillity\IIDKQuest\bin\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\Tranquillity\IIDKQuest\bin\Debug\IIDKQuest.pdb
+C:\Users\rober\OneDrive\Desktop\Tranquillity\IIDKQuest\obj\Debug\Emerald.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Tranquillity\IIDKQuest\obj\Debug\Emerald.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Tranquillity\IIDKQuest\obj\Debug\Emerald.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\Tranquillity\IIDKQuest\obj\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\Tranquillity\IIDKQuest\obj\Debug\IIDKQuest.pdb
+C:\Users\rober\OneDrive\Desktop\EmeraldPriv\IIDKQuest\bin\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\EmeraldPriv\IIDKQuest\bin\Debug\IIDKQuest.pdb
+C:\Users\rober\OneDrive\Desktop\EmeraldPriv\IIDKQuest\obj\Debug\Emerald.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\EmeraldPriv\IIDKQuest\obj\Debug\Emerald.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\EmeraldPriv\IIDKQuest\obj\Debug\Emerald.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\EmeraldPriv\IIDKQuest\obj\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\EmeraldPriv\IIDKQuest\obj\Debug\IIDKQuest.pdb

@@ -1,0 +1,7 @@
+C:\Users\rober\OneDrive\Desktop\arcticCopys\IIDKQuest\bin\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\arcticCopys\IIDKQuest\bin\Debug\IIDKQuest.pdb
+C:\Users\rober\OneDrive\Desktop\arcticCopys\IIDKQuest\obj\Debug\Arctic.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\arcticCopys\IIDKQuest\obj\Debug\Arctic.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\arcticCopys\IIDKQuest\obj\Debug\Arctic.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\arcticCopys\IIDKQuest\obj\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\arcticCopys\IIDKQuest\obj\Debug\IIDKQuest.pdb

@@ -1,0 +1,7 @@
+C:\Users\rober\OneDrive\Desktop\Cyclone\IIDKQuest\obj\Debug\Cyclone.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Cyclone\IIDKQuest\obj\Debug\Cyclone.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Cyclone\IIDKQuest\obj\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\Cyclone\IIDKQuest\obj\Debug\IIDKQuest.pdb
+C:\Users\rober\OneDrive\Desktop\Cyclone\IIDKQuest\bin\Debug\IIDKQuest.dll
+C:\Users\rober\OneDrive\Desktop\Cyclone\IIDKQuest\bin\Debug\IIDKQuest.pdb
+C:\Users\rober\OneDrive\Desktop\Cyclone\IIDKQuest\obj\Debug\Cyclone.csproj.Up2Date
